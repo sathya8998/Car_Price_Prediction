@@ -3,14 +3,14 @@ Car_Price_Prediction
 
 Libraries Used :
 
-Pandas 
-Matplotlib.
-Seaborn 
-Train_test_split
-LinearRegression
-Lasso
-Ridge
-Metrics
+1. Pandas 
+2. Matplotlib
+3. Seaborn 
+4. Train_test_split
+5. LinearRegression
+6. Lasso
+7. Ridge
+8. Metrics
 
 # Data Collection and Processing
 
