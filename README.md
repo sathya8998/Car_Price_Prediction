@@ -21,11 +21,11 @@ Metrics
 
 # Missing Values
 
-1.  Checking the number of missing values
+1.  Checking the number of missing values Using 'isnull()'
 
 # Categorical data
 
-1.  Checking the distribution of categorical data
+1.  Checking the distribution of categorical data Using value_counts()
 
 # Encoding the Categorical Data
 
